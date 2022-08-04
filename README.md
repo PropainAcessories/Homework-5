@@ -13,5 +13,4 @@
 
 🐔 https://propainacessories.github.io/Homework-5/
 
-
-![](Assets/_E__GT-Coding-BootCamp_Homework-5_Develop_index.html(iPhone%20SE).png)
+![](Assets/propainacessories.github.io_Homework-5_(iPad%20Mini).png)
